@@ -1,8 +1,8 @@
 ## How to use
 
-Before, make sure that you have node.js on your pc
+Before, make sure that you have nodejs, gulp on your computer
 - `git clone git@github.com:starfish7/Test_App.git` To get a copy of the Git repository
-- `npm install` to install packages in a project
+- `npm install` to install packages in a project inside the project
 - `gulp watch` to launch a server on your optimized application
 
 The main part of the project is in the 'app/'.
